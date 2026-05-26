@@ -1,8 +1,8 @@
 # Leela Addepalli
 
-Data analyst and researcher focused on equity in public systems — criminal justice, legal access, and violent crime.
+Data analyst and researcher focused on equity in public systems.
 
-I use data to surface patterns that institutions often accept as inevitable: racial disparities in legal decision-making, unsustainable workloads in public defense, underreporting of sexual violence. My work spans experimental research, large-scale federal datasets, and applied tools built for frontline advocates.
+I use data to surface patterns that institutions often accept as inevitable, such as racial disparities in legal decision-making, unsustainable workloads in public defense and underreporting of sexual violence. My work spans experimental research, large-scale federal datasets, and applied tools built for frontline advocates.
 
 ---
 
