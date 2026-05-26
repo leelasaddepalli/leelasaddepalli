@@ -20,6 +20,10 @@ Analysis of 275,000+ observations from the National Crime Victimization Survey e
 `R` `ggplot2` `ANOVA` `EFA` `Prolific`  
 Randomized experiment (n = 132) examining whether defendant race, social desirability bias, and age estimation influence mock juror conviction rates and criminal culpability scores.
 
+**[Juvenile Justice Research]((https://github.com/leelasaddepalli/juvenile-justice-research))
+`R` `Comparative Policy Analysis` `Legal Data` `Capabilities Framework`
+Two-part research project examining juvenile justice from systems to solutions. Paper one analyzes how state political ideology shapes transfer rates across California, Virginia, and Florida using legal rule scoring and 2023 justice data. Paper two applies Martha Nussbaum's capabilities approach to document the collateral harms of punitive discipline and proposes restorative alternatives for Rockbridge County (VA) schools.
+
 
 ---
 
