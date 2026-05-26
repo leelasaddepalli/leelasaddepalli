@@ -8,10 +8,6 @@ I use data to surface patterns that institutions often accept as inevitable, suc
 
 ## Projects
 
-**[Implicit Race Bias in Mock Juror Convictions](https://github.com/leelasaddepalli/scales-of-justice)**  
-`R` `ggplot2` `ANOVA` `EFA` `Prolific`  
-Randomized experiment (n = 132) examining whether defendant race, social desirability bias, and age estimation influence mock juror conviction rates and criminal culpability scores. Presented at the Eastern Psychological Association Annual Conference, NYC, March 2025.
-
 **[Legal Resource Directory](https://github.com/leelasaddepalli/legal-resource-directory)**  
 `JavaScript` `Google Apps Script` `HTML/CSS` `Geospatial Search`  
 Client-facing resource tool built from scratch for the Harris County Public Defender's Office. Normalizes organizational data, dynamically indexes resources by category, and performs radius-based geospatial search using the Haversine formula to connect justice-impacted clients with housing, employment, healthcare, and behavioral health services.
@@ -19,6 +15,11 @@ Client-facing resource tool built from scratch for the Harris County Public Defe
 **[Gender and Violent Personal Crime: NCVS 2023](https://github.com/leelasaddepalli/ncvs-criminal-justice-analysis)**  
 `R` `tidyverse` `Multiple Regression` `EFA` `Federal Survey Data`  
 Analysis of 275,000+ observations from the National Crime Victimization Survey examining gender differences in violent personal crime victimization intensity. Includes composite variable construction from a 1,261-variable federal codebook, probability of superiority effect sizes, and Cronbach's alpha reliability testing.
+
+**[Implicit Race Bias in Mock Juror Convictions](https://github.com/leelasaddepalli/scales-of-justice)**  
+`R` `ggplot2` `ANOVA` `EFA` `Prolific`  
+Randomized experiment (n = 132) examining whether defendant race, social desirability bias, and age estimation influence mock juror conviction rates and criminal culpability scores. Presented at the Eastern Psychological Association Annual Conference, NYC, March 2025.
+
 
 ---
 
