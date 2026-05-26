@@ -18,7 +18,7 @@ Analysis of 275,000+ observations from the National Crime Victimization Survey e
 
 **[Implicit Race Bias in Mock Juror Convictions](https://github.com/leelasaddepalli/scales-of-justice)**  
 `R` `ggplot2` `ANOVA` `EFA` `Prolific`  
-Randomized experiment (n = 132) examining whether defendant race, social desirability bias, and age estimation influence mock juror conviction rates and criminal culpability scores. Presented at the Eastern Psychological Association Annual Conference, NYC, March 2025.
+Randomized experiment (n = 132) examining whether defendant race, social desirability bias, and age estimation influence mock juror conviction rates and criminal culpability scores.
 
 
 ---
